@@ -1,4 +1,4 @@
-# Climate variability thresholds govern transitions between vegetation growth patterns
+# Climate driven shifts in vegetation growth carryover and structural overshoot
 
 ## Description of the data and file structure
 
